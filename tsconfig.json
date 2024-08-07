@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "sourceRoot": ".",
+    "baseUrl": ".",
+    "rootDir": "."
+  }
+}
